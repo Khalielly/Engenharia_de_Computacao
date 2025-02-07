@@ -6,4 +6,3 @@ void loop(){
   //Serial.println(analogRead(2));
   Serial.println(0.0048828125* analogRead(2));
   delay(500);
-}
